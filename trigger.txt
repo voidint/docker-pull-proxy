@@ -1,1 +1,4 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+redis/redis-stack-server:latest registry.cn-hangzhou.aliyuncs.com/bblink/redis-stack-server:latest
+rockylinux:9 registry.cn-hangzhou.aliyuncs.com/bblink/rockylinux:9
+grafana/loki:2.6.1 registry.cn-hangzhou.aliyuncs.com/bblink/loki:2.6.1
+grafana/promtail:2.9.3 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:2.9.3
