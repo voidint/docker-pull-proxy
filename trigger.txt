@@ -1,4 +1,12 @@
-redis/redis-stack-server:latest registry.cn-hangzhou.aliyuncs.com/bblink/redis-stack-server:latest
 rockylinux:9 registry.cn-hangzhou.aliyuncs.com/bblink/rockylinux:9
+ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/bblink/ubuntu:22.04
+ubuntu:24.04 registry.cn-hangzhou.aliyuncs.com/bblink/ubuntu:24.04
+mysql:8 registry.cn-hangzhou.aliyuncs.com/bblink/mysql:8
+mysql:9 registry.cn-hangzhou.aliyuncs.com/bblink/mysql:9
+redis:7 registry.cn-hangzhou.aliyuncs.com/bblink/redis:7
+redis/redis-stack-server:latest registry.cn-hangzhou.aliyuncs.com/bblink/redis-stack-server:latest
 grafana/loki:2.6.1 registry.cn-hangzhou.aliyuncs.com/bblink/loki:2.6.1
 grafana/promtail:2.9.3 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:2.9.3
+grafana/grafana:10.3.3 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:10.3.3
+grafana/loki:3.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/loki:3.1.0
+grafana/promtail:3.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:3.1.0
