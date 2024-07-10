@@ -11,5 +11,6 @@ nginx:1.27 registry.cn-hangzhou.aliyuncs.com/bblink/nginx:1.27
 grafana/loki:2.6.1 registry.cn-hangzhou.aliyuncs.com/bblink/loki:2.6.1
 grafana/promtail:2.9.3 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:2.9.3
 grafana/grafana:10.3.3 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:10.3.3
+rancher/mirrored-pause:3.6 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-pause:3.6
 grafana/loki:3.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/loki:3.1.0
 grafana/promtail:3.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:3.1.0
