@@ -8,9 +8,7 @@ mysql:9 registry.cn-hangzhou.aliyuncs.com/bblink/mysql:9
 redis:7 registry.cn-hangzhou.aliyuncs.com/bblink/redis:7
 redis/redis-stack-server:latest registry.cn-hangzhou.aliyuncs.com/bblink/redis-stack-server:latest
 nginx:1.27 registry.cn-hangzhou.aliyuncs.com/bblink/nginx:1.27
-grafana/loki:2.6.1 registry.cn-hangzhou.aliyuncs.com/bblink/loki:2.6.1
-grafana/promtail:2.9.3 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:2.9.3
-grafana/grafana:10.3.3 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:10.3.3
+grafana/loki:2.5.0 registry.cn-hangzhou.aliyuncs.com/bblink/loki:2.5.0
+grafana/promtail:2.4.2 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:2.4.2
+grafana/grafana:8.4.2 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:8.4.2
 rancher/mirrored-pause:3.6 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-pause:3.6
-grafana/loki:3.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/loki:3.1.0
-grafana/promtail:3.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:3.1.0
