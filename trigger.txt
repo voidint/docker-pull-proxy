@@ -1,10 +1,13 @@
 rockylinux:9 registry.cn-hangzhou.aliyuncs.com/bblink/rockylinux:9
 ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/bblink/ubuntu:22.04
 ubuntu:24.04 registry.cn-hangzhou.aliyuncs.com/bblink/ubuntu:24.04
+alpine:3.20 registry.cn-hangzhou.aliyuncs.com/bblink/alpine:3.20
+busybox:1.36 registry.cn-hangzhou.aliyuncs.com/bblink/busybox:1.36
 mysql:8 registry.cn-hangzhou.aliyuncs.com/bblink/mysql:8
 mysql:9 registry.cn-hangzhou.aliyuncs.com/bblink/mysql:9
 redis:7 registry.cn-hangzhou.aliyuncs.com/bblink/redis:7
 redis/redis-stack-server:latest registry.cn-hangzhou.aliyuncs.com/bblink/redis-stack-server:latest
+nginx:1.27 registry.cn-hangzhou.aliyuncs.com/bblink/nginx:1.27
 grafana/loki:2.6.1 registry.cn-hangzhou.aliyuncs.com/bblink/loki:2.6.1
 grafana/promtail:2.9.3 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:2.9.3
 grafana/grafana:10.3.3 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:10.3.3
