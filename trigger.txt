@@ -14,3 +14,5 @@ grafana/grafana:8.4.2 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:8.4.2
 rancher/mirrored-pause:3.6 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-pause:3.6
 nginxinc/nginx-unprivileged:1.24-alpine registry.cn-hangzhou.aliyuncs.com/bblink/nginx-unprivileged:1.24-alpine
 memcached:1.6.23-alpine registry.cn-hangzhou.aliyuncs.com/bblink/memcached:1.6.23-alpine
+prom/memcached-exporter:v0.14.2 registry.cn-hangzhou.aliyuncs.com/bblink/memcached-exporter:v0.14.2
+grafana/loki-canary:3.0.0 registry.cn-hangzhou.aliyuncs.com/bblink/loki-canary:3.0.0
