@@ -1,2 +1,1 @@
-grafana/loki:2.9.6 registry.cn-hangzhou.aliyuncs.com/bblink/loki:2.9.6
-grafana/promtail:2.9.6 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:2.9.6
+busybox:1.36 registry.cn-hangzhou.aliyuncs.com/bblink/busybox:1.36
