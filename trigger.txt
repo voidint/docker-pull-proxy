@@ -1,1 +1,1 @@
-docker.io/grafana/promtail:3.0.0 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:3.0.0
+docker.io/grafana/grafana:11.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:11.1.0
