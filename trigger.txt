@@ -1,3 +1,1 @@
-grafana/loki:3.0.0 registry.cn-hangzhou.aliyuncs.com/bblink/loki:3.0.0
-memcached:1.6.23-alpine registry.cn-hangzhou.aliyuncs.com/bblink/memcached:1.6.23-alpine
-prom/memcached-exporter:v0.14.2 registry.cn-hangzhou.aliyuncs.com/bblink/memcached-exporter:v0.14.2
+docker.io/grafana/promtail:3.0.0 registry.cn-hangzhou.aliyuncs.com/bblink/promtail:3.0.0
