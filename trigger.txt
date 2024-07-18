@@ -1,1 +1,1 @@
-docker.io/grafana/grafana:11.1.0 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:11.1.0
+docker.io/grafana/grafana:9.5.20 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:9.5.20
