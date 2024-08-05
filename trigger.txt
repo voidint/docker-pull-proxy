@@ -1,1 +1,1 @@
-docker.io/grafana/grafana:9.5.20 registry.cn-hangzhou.aliyuncs.com/bblink/grafana:9.5.20
+docker.io/atkrad/wait4x:2.13 registry.cn-hangzhou.aliyuncs.com/bblink/wait4x:2.13
