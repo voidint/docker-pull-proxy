@@ -1,7 +1,1 @@
-docker.io/rancher/mirrored-library-busybox:1.36.1 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-library-busybox:1.36.1
-docker.io/rancher/klipper-lb:v0.4.7 registry.cn-hangzhou.aliyuncs.com/bblink/klipper-lb:v0.4.7
-docker.io/rancher/local-path-provisioner:v0.0.26 registry.cn-hangzhou.aliyuncs.com/bblink/local-path-provisioner:v0.0.26
-docker.io/rancher/mirrored-coredns-coredns:1.10.1 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-coredns-coredns:1.10.1
-docker.io/rancher/mirrored-library-traefik:2.10.5 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-library-traefik:2.10.5
-docker.io/rancher/mirrored-metrics-server:v0.7.0 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-metrics-server:v0.7.0
-docker.io/rancher/mirrored-pause:3.6 registry.cn-hangzhou.aliyuncs.com/bblink/mirrored-pause:3.6
+docker.io/jaegertracing/all-in-one:1.59 registry.cn-hangzhou.aliyuncs.com/bblink/all-in-one:1.59
