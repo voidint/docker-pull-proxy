@@ -1,1 +1,1 @@
-docker.io/jaegertracing/all-in-one:1.59 registry.cn-hangzhou.aliyuncs.com/bblink/all-in-one:1.59
+docker.io/library/busybox:1.31.1 registry.cn-hangzhou.aliyuncs.com/bblink/busybox:1.31.1
