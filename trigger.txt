@@ -1,1 +1,1 @@
-docker.io/library/busybox:1.31.1 registry.cn-hangzhou.aliyuncs.com/bblink/busybox:1.31.1
+docker.io/library/mysql:5.7 registry.cn-hangzhou.aliyuncs.com/bblink/mysql:5.7
