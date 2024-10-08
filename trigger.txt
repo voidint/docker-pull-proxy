@@ -1,1 +1,2 @@
-docker.io/library/mysql:5.7 registry.cn-hangzhou.aliyuncs.com/bblink/mysql:5.7
+docker.io/library/node:20.18.0 registry.cn-hangzhou.aliyuncs.com/bblink/node:20.18.0
+docker.io/library/node:18.20.4 registry.cn-hangzhou.aliyuncs.com/bblink/node:18.20.4
